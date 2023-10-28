@@ -1,0 +1,6 @@
+﻿services:
+  platformservice:
+    image: platformservice
+    build:
+      context: .
+      dockerfile: Dockerfile

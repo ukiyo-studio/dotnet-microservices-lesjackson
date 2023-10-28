@@ -1,0 +1,55 @@
+﻿# Ignore Visual Studio files
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore NuGet package directory
+packages/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore logs and other generated files
+*.log
+*.bak
+
+# Ignore Resharper
+_ReSharper*/
+
+# Ignore Rider
+.idea/
+
+# Ignore Visual Studio for Mac files
+.idea/
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.swp
+
+# Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ignore folder config file
+Desktop.ini
+
+# Ignore Recycle Bin used on file shares
+$RECYCLE.BIN/
